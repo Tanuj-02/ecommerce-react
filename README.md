@@ -4,7 +4,7 @@ This is a modern, fully responsive ecommerce web application built with **React*
 
 ## Live Demo
 
-[Vercel Deployment Link](#) <!-- Replace # with your actual Vercel deployment URL -->
+[https://ecommerce-react-gilt-tau.vercel.app/](#) <!-- Replace # with your actual Vercel deployment URL -->
 
 ## Features
 
