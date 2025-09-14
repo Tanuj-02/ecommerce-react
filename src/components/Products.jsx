@@ -12,7 +12,7 @@ const Products = () => {
     { id: 4, name: "Watches" },
     { id: 5, name: "Tablets" },
   ];
-  const [buttoncat, setButtoncat] = useState("All");
+  const [buttoncat, setButtoncat] = useState("all");
 
   // const [itmos, setItmos]=useState(vastu)
 
